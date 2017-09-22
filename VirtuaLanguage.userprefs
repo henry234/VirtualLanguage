@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Cashier.cs">
+    <Files>
+      <File FileName="Assets/GoogleVR/Scripts/Controller/GvrPointerManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CashierDialog.cs" Line="12" Column="2" />
+      <File FileName="Assets/Scripts/CashierText.cs" Line="3" Column="19" />
+      <File FileName="Assets/Scripts/Player.cs" Line="27" Column="15" />
+      <File FileName="Assets/Scripts/Cashier.cs" Line="5" Column="21" />
+      <File FileName="Assets/Scripts/SpeechSpeaker.cs" Line="42" Column="3" />
+      <File FileName="Assets/Scripts/Product.cs" Line="24" Column="69" />
+      <File FileName="Assets/Scripts/CashierSpeech.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/ProductInfo.cs" Line="18" Column="56" />
+      <File FileName="Assets/Scripts/DialogText.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
